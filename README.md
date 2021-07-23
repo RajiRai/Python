@@ -1,2 +1,2 @@
 # Python
-iNeuron Python Assignments
+Python Tutorials
